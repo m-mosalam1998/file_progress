@@ -1,7 +1,8 @@
 name: file_progress
 description: package help to show progress dialog in read or write files
 version: 1.0.0
-homepage:
+homepage: https://github.com/m-mosalam1998/file_progress.git
+
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
